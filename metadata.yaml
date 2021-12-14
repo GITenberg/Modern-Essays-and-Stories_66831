@@ -1,0 +1,22 @@
+_repo: Modern-Essays-and-Stories_66831
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Law, Frederick Houk
+    birthdate: 1871
+    deathdate: 1957
+    gutenberg_agent_id: '52172'
+    url: http://www.gutenberg.org/2009/agents/52172
+    wikipedia: https://en.wikipedia.org/wiki/Frederick_Houk_Law
+description: ''
+gutenberg_issued: '2021-11-27'
+identifiers:
+  gutenberg: '66831'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Modern Essays and Stories
+url: http://www.gutenberg.org/ebooks/66831
